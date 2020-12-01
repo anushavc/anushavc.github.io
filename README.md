@@ -1,4 +1,3 @@
 
 ## Portfolio page
-you can check out the portfolio page at 
-https://anushavc.github.io/
+You can check my portfolio page at https://anushavc.github.io/. Made during the Prayogshaala Bootcamp.

@@ -2,7 +2,7 @@
 ## Data Scientist
 ### Leveraging data to drive smarter decisions
 
-## Technical Skills: Python, Java, C++, C, R, HTML, CSS, PHP, Tableau, PowerBI, Git, Javascript, PyTorch, Keras, Tensorflow, Scikit-Learn, NumPy, Pandas, D3.js, Microsoft Excel, Hadoop, PySpark, MySQL, MongoDB, PostgreSQL
+### Technical Skills: Python, Java, C++, C, R, HTML, CSS, PHP, Tableau, PowerBI, Git, Javascript, PyTorch, Keras, Tensorflow, Scikit-Learn, NumPy, Pandas, D3.js, Microsoft Excel, Hadoop, PySpark, MySQL, MongoDB, PostgreSQL
 
 ## Education			       		
 - M.S., Information Mangagement	         | University of Illinois Urbana-Champaign (_2023-Present_)	 			        		
@@ -36,6 +36,15 @@ leveraging lidar data for training and mast data for testing.
 - Created visually compelling data visualizations using seaborn and windrose libraries to effectively communicate key
 insights
 
+**Machine Learning Intern @ Siemens Gamesa Renewable Energy (_June 2022 - July 2022_)**
+- Developed machine learning models using scikit-learn to predict wind speeds at hub heights across multiple locations,
+leveraging lidar data for training and mast data for testing.
+- Created visually compelling data visualizations using seaborn and windrose libraries to effectively communicate key
+insights
+
+**NLP Intern @ Root2ai Technology Private Limited (_March 2021 - June 2021_)**
+• Developed a custom Named Entity Recognition (NER) model for parsing education section in a resume scanner project, enhancing data extraction capabilities
+• Designed and seamlessly integrated engaging text data visualizations using D3.js, enhancing the data presentation and user experience of the dashboard
 
 ## Projects
 **Machine learning-based system for the automatic detection of RAPD and Cataract (_June 2022 - June 2023_)**
@@ -47,7 +56,8 @@ with an accuracy rate of 94.7 percent
 
 ## Achievements
 - Secured 2nd place in the 2024 AgTech Research Park Hackathon, competing in the Bayer track.
-- Ranked 5th place out of 300 participants in the 2024 UIUC Statistics Datathon.
 - Placed 3rd in the Country Financial Annual Intern Case Study Competition and won the ”Solving Problems Creatively” track in the 2024 Internal Hackathon.
+- Ranked 5th place out of 300 participants in the 2024 UIUC Statistics Datathon.
+- Ranked 4th place in 2024 Ashby prize in computational science hackathon
 
-- [Data Science Blog]([https://medium.com/@anushavc](https://medium.com/@anushavc)
+### [Data Science Blog]([https://medium.com/@anushavc](https://medium.com/@anushavc)

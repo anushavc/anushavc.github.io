@@ -36,17 +36,20 @@ leveraging lidar data for training and mast data for testing.
 - Created visually compelling data visualizations using seaborn and windrose libraries to effectively communicate key
 insights
 
-**Machine Learning Intern @ Siemens Gamesa Renewable Energy (_June 2022 - July 2022_)**
-- Developed machine learning models using scikit-learn to predict wind speeds at hub heights across multiple locations,
-leveraging lidar data for training and mast data for testing.
-- Created visually compelling data visualizations using seaborn and windrose libraries to effectively communicate key
-insights
-
 **NLP Intern @ Root2ai Technology Private Limited (_March 2021 - June 2021_)**
 - Developed a custom Named Entity Recognition (NER) model for parsing education section in a resume scanner project, enhancing data extraction capabilities
 - Designed and seamlessly integrated engaging text data visualizations using D3.js, enhancing the data presentation and user experience of the dashboard
 
 ## Projects
+
+**Automatic Analysis of Vaccine Misinformation on Tik-Tok**
+- Led the integration and deployment efforts of the project on Streamlit for the CDC (Centers for Disease Control and Prevention)
+- Developed interactive data visualizations using PyVis to enhance interpretation and communication of results.
+
+**Gender Distribution Decoded: A Comprehensive Exploration of the Olympics (_October 2023 - December 2023_)**
+- Created interactive overview and summer vs winter dashboards analyzing over 120 years of Olympic history for understanding gender distribution patterns
+- Used AWS S3 bucket for streamlined data storage, enhancing accessibility and security for the project’s datasets
+
 **Machine learning-based system for the automatic detection of RAPD and Cataract (_June 2022 - June 2023_)**
 - Created a comprehensive end-to-end system spanning from image acquisition to precise pupil identification and disease
 classification

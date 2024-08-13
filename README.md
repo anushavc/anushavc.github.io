@@ -1,9 +1,11 @@
-# anushavc.github.io
-# Data Scientist
-# Leveraging data to drive smarter decisions
+# Anusha Verma Chandraju
+## Data Scientist
+### Leveraging data to drive smarter decisions
+
+## Technical Skills: Python, Java, C++, C, R, HTML, CSS, PHP, Tableau, PowerBI, Git, Javascript, PyTorch, Keras, Tensorflow, Scikit-Learn, NumPy, Pandas, D3.js, Microsoft Excel, Hadoop, PySpark, MySQL, MongoDB, PostgreSQL
 
 ## Education			       		
-- M.S., Information Mangagement	| University of Illinois Urbana-Champaign (_2023-Present_)	 			        		
+- M.S., Information Mangagement	         | University of Illinois Urbana-Champaign (_2023-Present_)	 			        		
 - B.S., Computer Science and Engineering | Vellore Institute of Technology (_2019-2023_)
 
 ## Work Experience
@@ -28,12 +30,24 @@ for the State of Karnataka.
 - Implemented kriging methods utilizing pykridge and conducted a comprehensive comparison with the identification of a
 best performing Random Forest Classifier model with an R-squared value of 0.76
 
-** Machine Learning Intern @ Siemens Gamesa Renewable Energy (_June 2022 - July 2022_)**
+**Machine Learning Intern @ Siemens Gamesa Renewable Energy (_June 2022 - July 2022_)**
 - Developed machine learning models using scikit-learn to predict wind speeds at hub heights across multiple locations,
 leveraging lidar data for training and mast data for testing.
 - Created visually compelling data visualizations using seaborn and windrose libraries to effectively communicate key
 insights
 
-#### Technical Skills: Python, Java, C++, C, R, HTML, CSS, PHP, Tableau, PowerBI, Git, Javascript, PyTorch, Keras, Tensorflow, Scikit-Learn, NumPy, Pandas, D3.js, Microsoft Excel, Hadoop, PySpark, MySQL, MongoDB, PostgreSQL
+
+## Projects
+**Machine learning-based system for the automatic detection of RAPD and Cataract (_June 2022 - June 2023_)**
+• Created a comprehensive end-to-end system spanning from image acquisition to precise pupil identification and disease
+classification
+• Employed a custom-trained pupil detection Mask-R-CNN model, achieving a mean average precision of 90.66 for accurate
+pupil localization and utilized a Random Forest classifier for eye disorder classification, surpassing other base models
+with an accuracy rate of 94.7 percent
+
+## Achievements
+- Secured 2nd place in the 2024 AgTech Research Park Hackathon, competing in the Bayer track.
+- Ranked 5th place out of 300 participants in the 2024 UIUC Statistics Datathon.
+- Placed 3rd in the Country Financial Annual Intern Case Study Competition and won the ”Solving Problems Creatively” track in the 2024 Internal Hackathon.
 
 - [Data Science Blog]([https://medium.com/@anushavc](https://medium.com/@anushavc)

@@ -43,14 +43,14 @@ leveraging lidar data for training and mast data for testing.
 insights
 
 **NLP Intern @ Root2ai Technology Private Limited (_March 2021 - June 2021_)**
-• Developed a custom Named Entity Recognition (NER) model for parsing education section in a resume scanner project, enhancing data extraction capabilities
-• Designed and seamlessly integrated engaging text data visualizations using D3.js, enhancing the data presentation and user experience of the dashboard
+- Developed a custom Named Entity Recognition (NER) model for parsing education section in a resume scanner project, enhancing data extraction capabilities
+- Designed and seamlessly integrated engaging text data visualizations using D3.js, enhancing the data presentation and user experience of the dashboard
 
 ## Projects
 **Machine learning-based system for the automatic detection of RAPD and Cataract (_June 2022 - June 2023_)**
-• Created a comprehensive end-to-end system spanning from image acquisition to precise pupil identification and disease
+- Created a comprehensive end-to-end system spanning from image acquisition to precise pupil identification and disease
 classification
-• Employed a custom-trained pupil detection Mask-R-CNN model, achieving a mean average precision of 90.66 for accurate
+- Employed a custom-trained pupil detection Mask-R-CNN model, achieving a mean average precision of 90.66 for accurate
 pupil localization and utilized a Random Forest classifier for eye disorder classification, surpassing other base models
 with an accuracy rate of 94.7 percent
 
@@ -58,6 +58,6 @@ with an accuracy rate of 94.7 percent
 - Secured 2nd place in the 2024 AgTech Research Park Hackathon, competing in the Bayer track.
 - Placed 3rd in the Country Financial Annual Intern Case Study Competition and won the ”Solving Problems Creatively” track in the 2024 Internal Hackathon.
 - Ranked 5th place out of 300 participants in the 2024 UIUC Statistics Datathon.
-- Ranked 4th place in 2024 Ashby prize in computational science hackathon
+- Ranked 4th place in 2024 Ashby Prize in Computational Science Hackathon.
 
-### [Data Science Blog]([https://medium.com/@anushavc](https://medium.com/@anushavc)
+### [Data Science Blog]([https://medium.com/@anushavc])
